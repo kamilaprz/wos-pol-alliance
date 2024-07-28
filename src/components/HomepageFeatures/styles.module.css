@@ -1,11 +1,12 @@
-.features {
-  display: flex;
-  align-items: center;
-  padding: 2rem 0;
-  width: 100%;
+
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 1rem 0;
 }
 
-.featureSvg {
-  height: 200px;
-  width: 200px;
+.card-body {
+  font-size: 1rem;
+  margin: 1rem 0;
 }
