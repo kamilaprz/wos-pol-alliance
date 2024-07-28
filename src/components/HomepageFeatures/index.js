@@ -4,19 +4,18 @@ import Card from 'react-bootstrap/Card';
 import {Button} from "react-bootstrap";
 
 import styles from './styles.module.css';
+import Link from "@docusaurus/core/lib/client/exports/Link";
 
 const BattleList = [
     {
         title: "Expedition facility Lvl 1",
         battleDate: "27.07 - 23:45 UCT",
-        description: "Take over facility to gain bonuses for our alliance",
         image: require('@site/static/img/facility.jpeg').default,
         route: "/events/facility",
     },
     {
         title: "Foundry battle",
         battleDate: "28.07 - 19:00 UCT",
-        description: "Occupy buildings to collect arsenal points and get extra rewards",
         image: require('@site/static/img/foundry.png').default,
         route: "/events/foundry-battle",
     }]
@@ -66,20 +65,20 @@ function Feature({Svg, title, description}) {
     </div>);
 }
 
-function BattleCard({title, battleDate, description, image, route}) {
-    return (<Card className="col col--4 margin-sm">
-        <Card.Img variant="top" src={image}/>
-        <Card.Body>
-            <Card.Title className="text--center text--semibold text--uppercase ">
-                <div>{title}</div>
-                <div> {battleDate}</div>
-            </Card.Title>
-            <Card.Text>
-                {description}
-            </Card.Text>
-            <Button variant="primary" href={route}>Read more...</Button>
-        </Card.Body>
-    </Card>);
+function BattleCard({title, battleDate, image, route}) {
+    return (
+        <Link to={route} className="col col--4 margin-md">
+            <Card>
+                <Card.Img variant="top" src={image}/>
+                <Card.Body>
+                    <Card.Title className="text--center text--semibold text--uppercase ">
+                        <div>{title}</div>
+                        <div>{battleDate}</div>
+                    </Card.Title>
+                </Card.Body>
+            </Card>
+        </Link>
+    );
 }
 
 export default function HomepageFeatures() {
