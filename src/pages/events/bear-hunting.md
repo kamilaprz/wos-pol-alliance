@@ -37,6 +37,18 @@ Place one of these heroes in the first slot for maximum effectiveness:
 
 Prioritize skills that increase damage dealt, followed by those that increase troops' attack.
 
+You can see the lineup of skills that will be used in the rally bonus by inspecting the rally screen. On screenshots all participants put Molly as Rally Capitan, which resulted in rally members skill being 4 times Mollies skill, which stacked up together.
+First expedition skill of Molly gives a chance of stunning the target for 1 round. So this is not a guaranteed bonus we get there, 
+but it is a good chance of getting a bonus.
+
+![](../../../static/img/rally.png)
+![](../../../static/img/skills-lineup.png)
+
+In situation when rally joiners select Jessie or Jasser as the first hero, their first expedition skill will be used and it guarantee a nice damage dealt bonus.
+
+![](../../../static/img/rally-jessie-lineup.png)
+![](../../../static/img/rally-jessie.png)
+
 ## Save Your Formations
 
 Formation for Starting a Rally: 
