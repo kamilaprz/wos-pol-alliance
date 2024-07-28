@@ -20,6 +20,5 @@ yarn-debug.log*
 yarn-error.log*
 
 # not ready
-/docs
 /events
 /blog
