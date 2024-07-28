@@ -6,6 +6,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
+import Nap10Component from "../components/Nap10";
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -16,18 +17,6 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-{/*        <div className={styles.buttons}>
-            <section>
-                <header className={clsx('hero hero--secondary', styles.heroBanner)}>
-                    Upcoming events
-                </header>
-            </section>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
-        </div>*/}
       </div>
     </header>
   );
@@ -41,6 +30,7 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
+          <Nap10Component />
         <HomepageFeatures />
       </main>
     </Layout>
