@@ -13,11 +13,18 @@ const BattleList = [
             route: "/events/facility",
         },*/
     {
+        title: "Bear hunting",
+        battleDate: "28.07 - 18:00 UCT",
+        image: require('@site/static/img/bear.jpg').default,
+        route: "/events/bear-hunting",
+    },
+    {
         title: "Foundry battle",
         battleDate: "28.07 - 19:00 UCT",
         image: require('@site/static/img/foundry.png').default,
         route: "/events/foundry-battle",
-    }]
+    },
+    ]
 
 const EventsList = [
     {
@@ -76,7 +83,7 @@ function Feature({Svg, title, description}) {
 function BattleCard({title, battleDate, image, route}) {
     return (
         <Link to={route} className="col col--4 margin-md shadow--md">
-            <Card>
+            <Card style={{margin: '15px'}}>
                 <Card.Img variant="top" src={image}/>
                 <Card.Body>
                     <Card.Title className="text--center text--semibold text--uppercase ">
