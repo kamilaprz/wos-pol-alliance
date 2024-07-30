@@ -14,16 +14,16 @@ const BattleList = [
         },*/
     {
         title: "Bear hunting",
-        battleDate: "28.07 - 18:00 UCT",
+        battleDate: "30.07 - 18:00 UCT",
         image: require('@site/static/img/bear.jpg').default,
-        route: "/events/bear-hunting",
+        route: "/docs/battles/bear-hunting",
     },
-    {
+    /*{
         title: "Foundry battle",
         battleDate: "28.07 - 19:00 UCT",
         image: require('@site/static/img/foundry.png').default,
-        route: "/events/foundry-battle",
-    },
+        route: "docs/battles/foundry-battle",
+    },*/
     ]
 
 const EventsList = [
@@ -54,7 +54,7 @@ const EventsList = [
         route: "/events/dev-new-tech"
     }, {
         title: "Crazy Joe",
-        startDate: "31.07.2024",
+        startDate: "30.07.2024",
         endDate: "01.08.2024",
         route: "/events/crazy-joe"
     }, {

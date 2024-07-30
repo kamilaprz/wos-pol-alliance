@@ -1,0 +1,8 @@
+{
+  "label": "Battles",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Description of battle events"
+  }
+}

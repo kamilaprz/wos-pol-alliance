@@ -31,7 +31,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'pl'],
   },
 
   presets: [
@@ -39,14 +39,14 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        /*docs: {
+        docs: {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
+        /*blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -72,13 +72,17 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-/*          {
+          {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},*/
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
+          /*{to: '/blog', label: 'Blog', position: 'left'},*/
          /* {to: '/events', label: 'Events', position: 'left'},*/
         ],
       },
@@ -93,8 +97,8 @@ const config = {
                 to: '/docs/intro',
               },
             ],
-          },
-          {
+          },*/
+          /*{
             title: 'More',
             items: [
               {
