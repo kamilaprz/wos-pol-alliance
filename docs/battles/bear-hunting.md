@@ -100,18 +100,41 @@ But when you see a blue or gathering hero is added to the rally as a captain, do
 
 
 ## Save Your Formations
+Go to avatar -> Troops -> Squads, there you will have small flags at the top of the screen. How many of them is unlocked, depends on your level.
+When saving squads use **equalise** to make sure you have the same amount of troops in each squad.
 
-### Starting a Rally: 
-Save a formation with your top three attack heroes. 
+![](../../static/img/troops.png)
+![](../../static/img/squads.png) 
+![](../../static/img/save_formation.png)    
+
+### Starting a Rally:
+
+Only those players who are in the **first three rows around the bear trap should start a rally** for bear hunting.
+
+To save a formation with your top three attack heroes, click the first flag icon and pick your heroes
 These can be:
 - **Molly**
 - **Bahiti**
 - **Sergey**
 
+In the formation for starting a rally, the order of heroes makes no difference, so they can be set up like this:
+![](../../static/img/start_rally.png)
+Click Save and confirm by choosing the flag icon again.
+![](../../static/img/save_confirm.png)
+
 ### Joining a rally 
-* 1st rally **Jessie** in the first slot and additional heroes for support
-* 2nd rally **Jasser** in the first slot and additional heroes for support
-* 3rd rally **Seo-yoon** in the first slot and additional heroes for support
-* other rallies pick hero with damage dealt or attack boost in their first expedition skill. **If none of those left, join rally without a hero**  
+Everyone should set up their formations for joining rallies. Those squads are very important, as they bring a bonus which will impact the whole rally.
+
+1. 1st rally **Jessie** in the first slot and additional heroes for support
+  ![](../../static/img/jessie.png)
+2. 2nd rally **Jasser** in the first slot and additional heroes for support
+  ![](../../static/img/jasser.png)
+3. 3rd rally **Seo-yoon** in the first slot and additional heroes for support
+  ![](../../static/img/seo-yoon.png)
+4. other rallies pick hero with damage dealt or attack boost in their first expedition skill. **If none of those left, join rally without a hero**  
+  ![](../../static/img/no-hero.png)
+
+**This is wrong setup, as the good hero is not in the first slow**
+![](../../static/img/wrong-setup.png)
 
 By saving these formations ahead of bear hunting, you can quickly and effectively participate in rallies, ensuring you maximize your damage output and rewards. 

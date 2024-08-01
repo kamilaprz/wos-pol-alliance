@@ -86,8 +86,18 @@ W przypadku Molly jej umiejętność nie gwarantuje bonusu, ale daje szansę na 
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | *To absolutnie OK, jesli dolaczysz do rajdu bez bohaterow. Nie bedzie to mialo negatywnego wplywu na caly sklad rajdu, wplynie jedynie na ilosc wojska jaka mozesz dolaczyc do tego konkretnego rajdu* |
 
+## Przygotowanie Oddzialow
+
+Kliknij avatar -> Oddzialy -> Druzyny, tab beda male flagi w gornej czesci ekranu. To ile ich jest odblokowanych, zalezy od twojego poziomu.
+Kiedy zapisujesz formacje kliknij przycisk **wyrownaj**, zeby dodac jednakowa ilosc wojska do kazdej druzyny.
+
+![](../../static/img/troops.png)
+![](../../static/img/squads.png)
+![](../../static/img/save_formation.png)
 
 ### Rozpoczynanie Rajdu:
+Tylko **gracze z 3 pierwszych rzedow przy pulapce startuja rajdy** na niedzwiedzia.
+
 Zapisz formację z trzema najlepszymi bohaterami ataku.
 Mogą to być:
 
@@ -95,10 +105,24 @@ Mogą to być:
 * **Bahiti**
 * **Sergey**
 
+In the formation for starting a rally, the order of heroes makes no difference, so they can be set up like this:
+![](../../../../../static/img/start_rally.png)
+Click Save and confirm by choosing the flag icon again.
+![](../../../../../static/img/save_confirm.png)
+
 ### Dołączanie do Rajdu
-* 1 rajd: **Jessie** w pierwszym slocie i dodatkowi bohaterowie do wsparcia
-* 2 rajd: **Jasser** w pierwszym slocie i dodatkowi bohaterowie do wsparcia
-* 3 rajd: **Seo-yoon** w pierwszym slocie i dodatkowi bohaterowie do wsparcia
-* 4 i kolejne rajdy: wybierz bohatera z umiejętnością zwiększającą zadane obrażenia lub atak w pierwszej umiejętności ekspedycyjnej. **Jeśli żaden z nich nie jest dostępny, dołącz do rajdu bez bohatera**
+Kazdy powinien przygotowac formacje do dolaczenia do rajdu. Te druzyny ssa bardzo wazne, poniewaz dodaja bonusy, ktore wplywaja na caly rajd.
+
+1. rajd: **Jessie** w pierwszym slocie i dodatkowi bohaterowie do wsparcia
+   ![](../../../../../static/img/jessie.png)
+2. rajd: **Jasser** w pierwszym slocie i dodatkowi bohaterowie do wsparcia
+![](../../../../../static/img/jasser.png)
+3. rajd: **Seo-yoon** w pierwszym slocie i dodatkowi bohaterowie do wsparcia
+![](../../../../../static/img/seo-yoon.png)
+4. i kolejne rajdy: wybierz bohatera z umiejętnością zwiększającą zadane obrażenia lub atak w pierwszej umiejętności ekspedycyjnej. **Jeśli żaden z nich nie jest dostępny, dołącz do rajdu bez bohatera**
+   ![](../../../../../static/img/no-hero.png)
+
+**To jest zle ustawienie, poniewaz wlasciwy bohater (Jessie) nie jest w miejscu kapitana rajdu**
+![](../../../../../static/img/wrong-setup.png)
 
 Zapisując te formacje przed polowaniem na niedźwiedzia, możesz szybko i skutecznie uczestniczyć w rajdach, maksymalizując zadane obrażenia i nagrody. 
