@@ -105,13 +105,21 @@ Mogą to być:
 * **Bahiti**
 * **Sergey**
 
-In the formation for starting a rally, the order of heroes makes no difference, so they can be set up like this:
+W formacji ktora startuje rajd, kolejnosc bohaterow nie ma znaczenia, Wiec mozna ich rozmiescic np tak:
 ![](../../../../../static/img/start_rally.png)
-Click Save and confirm by choosing the flag icon again.
+Kliknij Zapisz i potwierdz zaznaczajac znowu flage.
 ![](../../../../../static/img/save_confirm.png)
 
 ### Dołączanie do Rajdu
-Kazdy powinien przygotowac formacje do dolaczenia do rajdu. Te druzyny ssa bardzo wazne, poniewaz dodaja bonusy, ktore wplywaja na caly rajd.
+Kazdy powinien przygotowac formacje do dolaczenia do rajdu. Te druzyny sa bardzo wazne, poniewaz dodaja bonusy, ktore wplywaja na caly rajd.
+
+Kiedy dolaczasz do rajdu **tylko pierwszy bohater ma znaczenie** dla rajdu, bo jego **pierwsza umiejetnosc ekspedycji** daje bonus, pozostali sa ignorowani. Dlatego kolejnosc bohaterow jest tak wazna.
+Ponizej pokazane jest o ktore umiejetnosci chodzi;
+![](../../../../../static/img/jessie-skill.png)
+![](../../../../../static/img/jasser-skill.png)
+![](../../../../../static/img/seo-skill.png)
+
+#### Ustawienie formacji do dolaczenia do rajdu
 
 1. rajd: **Jessie** w pierwszym slocie i dodatkowi bohaterowie do wsparcia
 ![](../../../../../static/img/jessie.png)

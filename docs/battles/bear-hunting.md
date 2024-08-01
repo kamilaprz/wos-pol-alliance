@@ -125,6 +125,16 @@ Click Save and confirm by choosing the flag icon again.
 ### Joining a rally 
 Everyone should set up their formations for joining rallies. Those squads are very important, as they bring a bonus which will impact the whole rally.
 
+When you join a rally **tonly the first hero is importnad** for the rally, because **their first expedition skill** gives bonus, the other heroes are ignored.
+Therefor the order of heroes is so important.
+
+Below you see which skills we are talking about when joining rallies:
+![](../../static/img/jessie-skill.png)
+![](../../static/img/jasser-skill.png)
+![](../../static/img/seo-skill.png)
+
+#### Rally squads setup
+
 1. 1st rally **Jessie** in the first slot and additional heroes for support
   ![](../../static/img/jessie.png)
 2. 2nd rally **Jasser** in the first slot and additional heroes for support
