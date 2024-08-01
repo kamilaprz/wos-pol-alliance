@@ -91,9 +91,9 @@ W przypadku Molly jej umiejętność nie gwarantuje bonusu, ale daje szansę na 
 Kliknij avatar -> Oddzialy -> Druzyny, tab beda male flagi w gornej czesci ekranu. To ile ich jest odblokowanych, zalezy od twojego poziomu.
 Kiedy zapisujesz formacje kliknij przycisk **wyrownaj**, zeby dodac jednakowa ilosc wojska do kazdej druzyny.
 
-![](../../static/img/troops.png)
-![](../../static/img/squads.png)
-![](../../static/img/save_formation.png)
+![](../../../../../static/img/troops.png)
+![](../../../../../static/img/squads.png)
+![](../../../../../static/img/save_formation.png)
 
 ### Rozpoczynanie Rajdu:
 Tylko **gracze z 3 pierwszych rzedow przy pulapce startuja rajdy** na niedzwiedzia.
@@ -114,13 +114,13 @@ Click Save and confirm by choosing the flag icon again.
 Kazdy powinien przygotowac formacje do dolaczenia do rajdu. Te druzyny ssa bardzo wazne, poniewaz dodaja bonusy, ktore wplywaja na caly rajd.
 
 1. rajd: **Jessie** w pierwszym slocie i dodatkowi bohaterowie do wsparcia
-   ![](../../../../../static/img/jessie.png)
+![](../../../../../static/img/jessie.png)
 2. rajd: **Jasser** w pierwszym slocie i dodatkowi bohaterowie do wsparcia
 ![](../../../../../static/img/jasser.png)
 3. rajd: **Seo-yoon** w pierwszym slocie i dodatkowi bohaterowie do wsparcia
 ![](../../../../../static/img/seo-yoon.png)
 4. i kolejne rajdy: wybierz bohatera z umiejętnością zwiększającą zadane obrażenia lub atak w pierwszej umiejętności ekspedycyjnej. **Jeśli żaden z nich nie jest dostępny, dołącz do rajdu bez bohatera**
-   ![](../../../../../static/img/no-hero.png)
+![](../../../../../static/img/no-hero.png)
 
 **To jest zle ustawienie, poniewaz wlasciwy bohater (Jessie) nie jest w miejscu kapitana rajdu**
 ![](../../../../../static/img/wrong-setup.png)
