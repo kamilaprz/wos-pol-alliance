@@ -144,7 +144,7 @@ Below you see which skills we are talking about when joining rallies:
 4. other rallies pick hero with damage dealt or attack boost in their first expedition skill. **If none of those left, join rally without a hero**  
   ![](../../static/img/no-hero.png)
 
-**This is wrong setup, as the good hero is not in the first slow**
+**This is wrong setup, as the good hero is not in the first slot and thus not rally captain**
 ![](../../static/img/wrong-setup.png)
 
 By saving these formations ahead of bear hunting, you can quickly and effectively participate in rallies, ensuring you maximize your damage output and rewards. 
