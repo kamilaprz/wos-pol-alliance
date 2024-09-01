@@ -6,7 +6,7 @@ hide_table_of_contents: false
 
 # Polowanie na Niedźwiedzia
 
-Wydarzenie polowania jest aktywowane przez R4/R5 co dwa dni o 18:00 UTC. 
+Wydarzenie polowania jest aktywowane przez R4/R5 co dwa dni. 
 Po rozpoczęciu wydarzenia wszyscy członkowie mają 30 minut na pokonanie rozwścieczonego niedźwiedzia. 
 Nagrody są tym lepsze, im więcej obrażeń twoje wojska są w stanie zadać niedźwiedziowi. 
 Ponieważ niedźwiedź ma dużo zdrowia, dobra strategia jest kluczowa, aby zmaksymalizować zadane obrażenia.

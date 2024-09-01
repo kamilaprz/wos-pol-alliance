@@ -6,7 +6,7 @@ hide_table_of_contents: false
 
 # Bear Hunting Guide
 
-The hunting event is activated by R4/R5 every two days at 18:00 UTC. Once the event starts, all members have only 30 minutes to defeat the raging bear. 
+The hunting event is activated by R4/R5 every two days. Once the event starts, all members have only 30 minutes to defeat the raging bear. 
 The rewards improve with the amount of damage your troops can inflict on the bear. Since the bear has a lot of health, a good strategy is crucial to maximize your damage output.
 
 ## Starting a Rally
